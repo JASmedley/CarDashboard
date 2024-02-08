@@ -9,6 +9,7 @@
   margin: 25px;
 }
 
+
 a {
   text-decoration: none;
   color: inherit;
@@ -31,10 +32,24 @@ ul {
   margin: auto 20px;
 }
 
+div {
+  display: block;
+}
 .car-container {
+  display: block;
   margin: 50px;
+  width: 100%;
+  margin-left: 30%;
+  margin-right: 30%;
+
 }
 
+.Chip {
+  margin: 5px;
+}
 .car-paper {
+  max-width: 500px;
   padding: 50px;
+
+
 }
